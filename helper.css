@@ -1,0 +1,36 @@
+.fs-14 {
+  font-size: 14px;
+}
+.fs-16 {
+  font-size: 16px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fs-24 {
+  font-size: 24px;
+}
+.fs-26 {
+  font-size: 26px;
+}
+.fs-30 {
+  font-size: 30px;
+}
+
+.text_black {
+  color: black;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.mx_6 {
+  margin: 1rem 5rem 1rem 5rem;
+}
+.opacity-1 {
+  opacity: 0.7;
+}
+.lh_1{
+    line-height: 1.6;
+}
